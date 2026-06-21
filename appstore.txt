@@ -1,0 +1,102 @@
+{
+    "name": "萌小米软件源",
+    "message": "❄️萌小米软件偷者绕道❄️\n☃️感谢信任萌小米小店☃️ ⚠️有任何问题均可联系⚠️\n请勿使用该软件源做其他用途\n若发现有禁忌行为\n后果自负",
+    "identifier": "",
+    "sourceURL": "https://pdf2.webgetstore.com/2026/06/22/be6d912422d4ce0d96e0108240054fe7.txt?sg=6716fce2afaa9557d9b40b2711b9cdec&e=6a381b42&fileName=appstore.txt&fi=291530646",
+    "sourceicon": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+    "payURL": "",
+    "unlockURL": "",
+    "apps": [
+        {
+            "name": "特别公告",
+            "type": "1",
+            "version": "认真观看",
+            "versionDate": "2026-03-03T12:00:00+08:00",
+            "versionDescription": "⚠️官替需卸载官方微信，可以第三方支付、跳转微信⚠️\n多开无需卸载官方微信，不支持第三方付款、无法跳转微信⚠️",
+            "lock": "0",
+            "downloadURL": "",
+            "isLanZouCloud": "0",
+            "iconURL": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+            "tintColor": "",
+            "size": "520"
+        },
+        {
+            "name": "官替 8074",
+            "type": "1",
+            "version": "8074",
+            "versionDate": "2026-06-13T12:30:00+08:00",
+            "versionDescription": "✅Mikoto ✅PKC ✅WCPulse ✅楠安助手 ✅猪咪小屋 ✅插件管理 ✅微信助手 ✅WeChat ✅锤子助手 ✅微信增强 ✅虚拟视频 ✅酸果主题 ✅77Theme ✅ThemePro ✅HBB ✅小雪糕 ✅小妖精水印 ✅主题盒子 ✅amplify ✅微信优化 ✅黄白助手 ✅WCRefineefine",
+            "lock": "0",
+            "downloadURL": "https://alist.pfud.cn/d/yan/%E6%E9%80%E6%E9%96%B0%E5%AE%AE%89%E8%A3%85%E5%8C%85/%E5%BE%AE%E4%BF%A1_8.0.74_%E5%AE%AE%98%E6%9B%BF%E5%B8%A6XOS.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+            "tintColor": "",
+            "size": "464519168"
+        },
+        {
+            "name": "多开 8074",
+            "type": "1",
+            "version": "8074",
+            "versionDate": "2026-06-13T12:30:00+08:00",
+            "versionDescription": "✅Mikoto ✅PKC ✅WCPulse ✅楠安助手 ✅猪咪小屋 ✅插件管理 ✅微信助手 ✅WeChat ✅锤子助手 ✅微信增强 ✅虚拟视频 ✅酸果主题 ✅77Theme ✅ThemePro ✅HBB ✅小雪糕 ✅小妖精水印 ✅主题盒子 ✅amplify ✅微信优化 ✅黄白助手 ✅WCRefineefine",
+            "lock": "0",
+            "downloadURL": "https://alist.pfud.cn/d/yan/%E6%E9%80%E6%E9%96%B0%E5%AE%AE%89%E8%A3%85%E5%8C%85/%E5%BE%AE%E4%BF%A1_8.0.74_1780042507.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+            "tintColor": "",
+            "size": "464519168"
+        },
+        {
+            "name": "官替 8073",
+            "type": "1",
+            "version": "8073",
+            "versionDate": "2026-05-15T12:30:00+08:00",
+            "versionDescription": "✅Mikoto ✅PKC ✅WCPulse ✅楠安助手 ✅猪咪小屋 ✅插件管理 ✅微信助手 ✅WeChat ✅锤子助手 ✅微信增强 ✅虚拟视频 ✅酸果主题 ✅77Theme ✅ThemePro ✅HBB ✅小雪糕 ✅小妖精水印 ✅主题盒子 ✅amplify ✅微信优化 ✅黄白助手 ✅WCRefineefine",
+            "lock": "0",
+            "downloadURL": "https://alist.pfud.cn/d/yan/%E6%E9%80%E6%E9%96%B0%E5%AE%AE%89%E8%A3%85%E5%8C%85/5.31gt73.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+            "tintColor": "",
+            "size": "495976448"
+        },
+        {
+            "name": "多开 8073",
+            "type": "1",
+            "version": "8073",
+            "versionDate": "2026-05-15T12:30:00+08:00",
+            "versionDescription": "✅Mikoto ✅PKC ✅WCPulse ✅楠安助手 ✅猪咪小屋 ✅插件管理 ✅微信助手 ✅WeChat ✅锤子助手 ✅微信增强 ✅虚拟视频 ✅酸果主题 ✅77Theme ✅ThemePro ✅HBB ✅小雪糕 ✅小妖精水印 ✅主题盒子 ✅amplify ✅微信优化 ✅黄白助手 ✅WCRefineefine",
+            "lock": "0",
+            "downloadURL": "https://alist.pfud.cn/d/yan/%E6%E9%80%E6%E9%96%B0%E5%AE%AE%89%E8%A3%85%E5%8C%85/5.31dk73.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+            "tintColor": "",
+            "size": "495976448"
+        },
+        {
+            "name": "官替 8069",
+            "type": "1",
+            "version": "8069",
+            "versionDate": "2026-04-25T12:30:00+08:00",
+            "versionDescription": "✅Mikoto ✅PKC ✅WCPulse ✅楠安助手 ✅猪咪小屋 ✅插件管理 ✅微信助手 ✅WeChat ✅锤子助手 ✅微信增强 ✅虚拟视频 ✅酸果主题 ✅77Theme ✅ThemePro ✅HBB ✅小雪糕 ✅小妖精水印 ✅主题盒子 ✅amplify ✅微信优化 ✅黄白助手 ✅WCRefineefine",
+            "lock": "0",
+            "downloadURL": "https://alist.pfud.cn/d/yan/4%2C21/%E5%BE%AE%E4%BF%A1-%E7%BA%AF%E5%AE%98%E6%9B%BF-%E8%BD%AC%E7%A7%BB%E8%AE%B0%E5%BD%95%E7%94%A8_8.0.69.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+            "tintColor": "",
+            "size": "503316480"
+        },
+        {
+            "name": "多开 8069",
+            "type": "1",
+            "version": "8069",
+            "versionDate": "2026-04-25T12:30:00+08:00",
+            "versionDescription": "✅Mikoto ✅PKC ✅WCPulse ✅楠安助手 ✅猪咪小屋 ✅插件管理 ✅微信助手 ✅WeChat ✅锤子助手 ✅微信增强 ✅虚拟视频 ✅酸果主题 ✅77Theme ✅ThemePro ✅HBB ✅小雪糕 ✅小妖精水印 ✅主题盒子 ✅amplify ✅微信优化 ✅黄白助手 ✅WCRefineefine",
+            "lock": "0",
+            "downloadURL": "https://alist.pfud.cn/d/yan/4%2C21/%E5%AF%BC%E8%81%8A%E5%A4%A9%E8%AE%AE%B0%E5%BD%95%E5%A4%9A%E5%BC%80%E5%8C%8569.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://s41.ax1x.com/2026/06/21/pmJEkvQ.jpg",
+            "tintColor": "",
+            "size": "503316480"
+        }
+    ]
+}
